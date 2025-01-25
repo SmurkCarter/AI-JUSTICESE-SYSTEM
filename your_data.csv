@@ -1,0 +1,10 @@
+race,gender,age,case_type,outcome
+black,male,34,theft,guilty
+white,female,45,assault,not guilty
+asian,male,28,robbery,guilty
+hispanic,female,52,drugs,not guilty
+black,male,19,burglary,guilty
+white,female,37,assault,not guilty
+black,male,25,murder,not guilty
+asian,male,28,defermation,guilty
+black,male,32,drugs,not guilty
