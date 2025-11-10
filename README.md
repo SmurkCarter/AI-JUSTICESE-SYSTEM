@@ -1,8 +1,8 @@
-Short Summary
+**Short Summary**
 
 AI-JUSTICESE-SYSTEM is a Python-based intelligent system designed to analyse and predict legal case outcomes using machine learning. It ingests a dataset of legal cases and applies classification models to help automate the prediction of case type, gender, race, and other variables, with a web interface for user interaction.
 
-Description
+**Description**
 
 This project tackles the challenge of leveraging AI in legal justice contexts. Using a dataset of legal case records (legal_cases_dataset.csv), the system implements a data-preparation pipeline (generate_dataset.py), trains machine learning models (model.pkl), and exposes a web interface (app.py / updated_app.py) for end-user input and prediction results.
 
